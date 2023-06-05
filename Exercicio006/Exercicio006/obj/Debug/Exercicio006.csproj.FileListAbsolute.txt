@@ -1,0 +1,12 @@
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio006\Exercicio006\bin\Debug\Exercicio006.exe.config
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio006\Exercicio006\bin\Debug\Exercicio006.exe
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio006\Exercicio006\bin\Debug\Exercicio006.pdb
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio006\Exercicio006\obj\Debug\Exercicio006.csproj.CoreCompileInputs.cache
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio006\Exercicio006\obj\Debug\Exercicio006.exe
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio006\Exercicio006\obj\Debug\Exercicio006.pdb
+F:\Fatec.exe\Algoritimos\Exercícios\Exercicio006\Exercicio006\bin\Debug\Exercicio006.exe.config
+F:\Fatec.exe\Algoritimos\Exercícios\Exercicio006\Exercicio006\bin\Debug\Exercicio006.exe
+F:\Fatec.exe\Algoritimos\Exercícios\Exercicio006\Exercicio006\bin\Debug\Exercicio006.pdb
+F:\Fatec.exe\Algoritimos\Exercícios\Exercicio006\Exercicio006\obj\Debug\Exercicio006.csproj.CoreCompileInputs.cache
+F:\Fatec.exe\Algoritimos\Exercícios\Exercicio006\Exercicio006\obj\Debug\Exercicio006.exe
+F:\Fatec.exe\Algoritimos\Exercícios\Exercicio006\Exercicio006\obj\Debug\Exercicio006.pdb

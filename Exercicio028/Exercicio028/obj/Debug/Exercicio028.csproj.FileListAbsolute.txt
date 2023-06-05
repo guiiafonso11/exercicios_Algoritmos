@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\bin\Debug\Exercicio028.exe.config
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\bin\Debug\Exercicio028.exe
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\bin\Debug\Exercicio028.pdb
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\obj\Debug\Exercicio028.csprojAssemblyReference.cache
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\obj\Debug\Exercicio028.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\obj\Debug\Exercicio028.exe
+C:\Users\ALUNO\source\repos\Exercicio028\Exercicio028\obj\Debug\Exercicio028.pdb

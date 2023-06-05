@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\bin\Debug\net6.0\Exercicio047.exe
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\bin\Debug\net6.0\Exercicio047.deps.json
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\bin\Debug\net6.0\Exercicio047.runtimeconfig.json
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\bin\Debug\net6.0\Exercicio047.dll
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\bin\Debug\net6.0\ref\Exercicio047.dll
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\bin\Debug\net6.0\Exercicio047.pdb
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.dll
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\ref\Exercicio047.dll
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.pdb
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio047\obj\Debug\net6.0\Exercicio047.genruntimeconfig.cache

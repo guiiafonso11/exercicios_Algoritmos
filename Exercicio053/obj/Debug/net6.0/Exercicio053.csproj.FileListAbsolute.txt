@@ -1,0 +1,5 @@
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio053\obj\Debug\net6.0\Exercicio053.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio053\obj\Debug\net6.0\Exercicio053.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio053\obj\Debug\net6.0\Exercicio053.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio053\obj\Debug\net6.0\Exercicio053.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\Exercicios-05\Exercicio053\obj\Debug\net6.0\Exercicio053.csproj.CoreCompileInputs.cache

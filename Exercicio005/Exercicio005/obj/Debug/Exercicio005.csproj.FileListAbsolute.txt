@@ -1,0 +1,7 @@
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\obj\Debug\Exercicio005.csprojAssemblyReference.cache
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\obj\Debug\Exercicio005.csproj.CoreCompileInputs.cache
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\bin\Debug\Exercicio005.exe.config
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\bin\Debug\Exercicio005.exe
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\bin\Debug\Exercicio005.pdb
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\obj\Debug\Exercicio005.exe
+C:\Users\GuiiRam0s11\Documents\Fatec\Algoritimos\Exercícios\Exercicio005\Exercicio005\obj\Debug\Exercicio005.pdb

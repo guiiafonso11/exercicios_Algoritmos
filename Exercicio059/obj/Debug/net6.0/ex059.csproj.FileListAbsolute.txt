@@ -1,0 +1,15 @@
+C:\Users\neeph\Desktop\ex\ex059\bin\Debug\net6.0\ex059.exe
+C:\Users\neeph\Desktop\ex\ex059\bin\Debug\net6.0\ex059.deps.json
+C:\Users\neeph\Desktop\ex\ex059\bin\Debug\net6.0\ex059.runtimeconfig.json
+C:\Users\neeph\Desktop\ex\ex059\bin\Debug\net6.0\ex059.dll
+C:\Users\neeph\Desktop\ex\ex059\bin\Debug\net6.0\ex059.pdb
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.csproj.AssemblyReference.cache
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.AssemblyInfoInputs.cache
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.AssemblyInfo.cs
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.csproj.CoreCompileInputs.cache
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.dll
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\refint\ex059.dll
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.pdb
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ex059.genruntimeconfig.cache
+C:\Users\neeph\Desktop\ex\ex059\obj\Debug\net6.0\ref\ex059.dll

@@ -1,0 +1,7 @@
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\bin\Debug\Exercicio025.exe.config
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\bin\Debug\Exercicio025.exe
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\bin\Debug\Exercicio025.pdb
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\obj\Debug\Exercicio025.csprojAssemblyReference.cache
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\obj\Debug\Exercicio025.csproj.CoreCompileInputs.cache
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\obj\Debug\Exercicio025.exe
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio025\Exercicio025\obj\Debug\Exercicio025.pdb

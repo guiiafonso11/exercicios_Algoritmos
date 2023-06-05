@@ -1,0 +1,7 @@
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\obj\Debug\Exercicio030.csprojAssemblyReference.cache
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\obj\Debug\Exercicio030.csproj.CoreCompileInputs.cache
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\bin\Debug\Exercicio030.exe.config
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\bin\Debug\Exercicio030.exe
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\bin\Debug\Exercicio030.pdb
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\obj\Debug\Exercicio030.exe
+C:\Users\Guii $\Documents\Fatec.exe\Algoritimos\Fevereiro-Março\Exercícios\04 - Exercicios\Exercicio030\Exercicio030\obj\Debug\Exercicio030.pdb

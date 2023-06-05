@@ -1,0 +1,6 @@
+C:\Users\ALUNO\Desktop\02-Exercicios\Exercicio001\Exercicio003\Exercicio003\obj\Debug\Exercicio003.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\02-Exercicios\Exercicio001\Exercicio003\Exercicio003\bin\Debug\Exercicio003.exe.config
+C:\Users\ALUNO\Desktop\02-Exercicios\Exercicio001\Exercicio003\Exercicio003\bin\Debug\Exercicio003.exe
+C:\Users\ALUNO\Desktop\02-Exercicios\Exercicio001\Exercicio003\Exercicio003\bin\Debug\Exercicio003.pdb
+C:\Users\ALUNO\Desktop\02-Exercicios\Exercicio001\Exercicio003\Exercicio003\obj\Debug\Exercicio003.exe
+C:\Users\ALUNO\Desktop\02-Exercicios\Exercicio001\Exercicio003\Exercicio003\obj\Debug\Exercicio003.pdb
