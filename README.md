@@ -1,1 +1,1 @@
-# exercicios_Algoritmos
+# Exercícios em C# feitos na FATEC GTA
